@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "newAge",
     "description": "",
-    "home_page_url": "http://am.am4idea.hu",
-    "feed_url": "http://am.am4idea.hu/feed.json",
+    "home_page_url": "https://amdrado.github.io/4socialusefulsupporting",
+    "feed_url": "https://amdrado.github.io/4socialusefulsupporting/feed.json",
     "user_comment": "",
     "author": {
         "name": "FlaviaCartens"
     },
     "items": [
         {
-            "id": "http://am.am4idea.hu/x21am4ideahu/",
-            "url": "http://am.am4idea.hu/x21am4ideahu/",
+            "id": "https://amdrado.github.io/4socialusefulsupporting/x21am4ideahu/",
+            "url": "https://amdrado.github.io/4socialusefulsupporting/x21am4ideahu/",
             "title": "x21.am4idea.hu",
             "summary": "as work-title",
             "content_html": "<p>as work-title</p>\n",

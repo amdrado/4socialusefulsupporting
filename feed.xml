@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>newAge</title>
-    <link href="http://am.am4idea.hu/feed.xml" rel="self" />
-    <link href="http://am.am4idea.hu" />
+    <link href="https://amdrado.github.io/4socialusefulsupporting/feed.xml" rel="self" />
+    <link href="https://amdrado.github.io/4socialusefulsupporting" />
     <updated>2022-09-05T19:14:35+02:00</updated>
     <author>
         <name>FlaviaCartens</name>
     </author>
-    <id>http://am.am4idea.hu</id>
+    <id>https://amdrado.github.io/4socialusefulsupporting</id>
 
     <entry>
         <title>x21.am4idea.hu</title>
         <author>
             <name>FlaviaCartens</name>
         </author>
-        <link href="http://am.am4idea.hu/x21am4ideahu/"/>
-        <id>http://am.am4idea.hu/x21am4ideahu/</id>
+        <link href="https://amdrado.github.io/4socialusefulsupporting/x21am4ideahu/"/>
+        <id>https://amdrado.github.io/4socialusefulsupporting/x21am4ideahu/</id>
 
         <updated>2022-09-05T19:14:35+02:00</updated>
             <summary>
